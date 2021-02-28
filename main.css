@@ -1,3 +1,37 @@
-.main-page{
+body{
     background: aliceblue;
+}
+
+.title{
+    background: lightblue;
+    text-align: center;
+    justify-content: center;
+    border-radius: 3px;
+    border: 2px solid grey;
+    font: bold 50px Arial, sans-serif;
+}
+
+.my-picture{
+    background: antiquewhite;
+    border-radius: 3px;
+    border: 2px solid grey;
+    float: left;
+    width: 25%;
+    height: 350px;
+    margin: 10px 4%;
+}
+
+.fun-facts{
+    background: lightcoral;
+    border-radius: 3px;
+    border: 2px solid grey;
+    float: left;
+    width: 25%;
+    height: 350px;
+    margin: 10px 4%;
+    font: bold 20px Arial, sans-serif;
+}
+
+.something-else{
+    
 }
